@@ -8,6 +8,7 @@ This project is designed to automatically perform surveys at Hanyang University.
    - `lecture.js` for 강의평가
    - `survey.js` for 설문.
 2. Turn on DevTools (Chrome, press F12) or Web Inspector (Safari).
+   - Make sure that you are on 강의평가 or 설문 window.
 3. Simply paste the code in the console and hit enter.
 
 ## 🤝 Contribution
